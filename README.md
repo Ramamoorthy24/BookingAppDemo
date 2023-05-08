@@ -1,6 +1,5 @@
 # BookingAppDemo
 
-
 Demo app using SwiftUI and Alamofire and Combine Framework
 
 Note: 
